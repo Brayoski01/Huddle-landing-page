@@ -121,7 +121,7 @@ body{
     }
 
     .button{
-        text-align: center;
+        text-align: left;
     }
 
     .btn{
@@ -138,5 +138,6 @@ body{
     }
 
 }
+
 
 
